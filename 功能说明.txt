@@ -1,0 +1,17 @@
+网上商城系统
+	https://github.com/macrozheng/mall
+	
+电子商务教学实训系统
+	功能来源:  http://www.bjbodao.com/2019/05/1756/   http://www.safabo.com/ztlm/sfxjs/zdzyjs/dzswjsxb/kcjs3/content_37677
+	http://www.codeforge.cn/article/292474/
+网店推广实训系统
+	报价参考: https://fo.cqcet.edu.cn/info/1989/4183.htm  18W
+	http://down.chinaz.com/soft/39013.htm
+网店管理实训系统
+	http://www.html580.com/1616
+电子商务信息化培训平台
+	建设方案: https://max.book118.com/html/2018/0902/6231214140001214.shtm
+
+博星卓越
+
+后面四个系统: 重点是流程,可能要去看他们的教材
